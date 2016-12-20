@@ -9,3 +9,10 @@ npm install --save-dev webpack webpack-dev-server
 ```
 npm install --save-dev babel-loader babel-core babel-preset-es2015 babel-plugin-add-module-exports
 ```
+
+
+## 添加eslint
+
+```
+.\node_modules\.bin\eslint --init
+```
